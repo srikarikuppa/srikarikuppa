@@ -1,7 +1,8 @@
-## Hi 👋, I'm Srikari Kuppa  
+#<h2 align="center">Hi 👋, I'm Srikari Kuppa</h2>
 
-### B.Tech IT Student | Python Programmer | DSA & System Design | AI/ML Learning  
-
+<h3 align="center">
+B.Tech IT Student | Python Programmer | DSA & System Design | AI/ML Learning
+</h3>
 ---
 
 ## 🌟 About Me  

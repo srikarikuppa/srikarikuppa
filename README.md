@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/srikarikuppa?v=4" width="180" />
-</p>
-
 <h2 align="center">Hi 👋, I'm Srikari Kuppa</h2>
 
 <h3 align="center">

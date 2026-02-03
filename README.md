@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi 👋, I'm Srikari Kuppa  
 
-<!--
-**srikarikuppa/srikarikuppa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech IT Student | Python Programmer | DSA & System Design | AI/ML Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+
+- 🎓 B.Tech 3rd Year – Information Technology  
+- 🐍 Currently working with **Python** and problem-solving  
+- 🧠 Practicing **Data Structures & Algorithms** and **System Design fundamentals**  
+- 🤖 Exploring **Artificial Intelligence & Machine Learning** concepts  
+- 🔧 Interested in **Software Development, Backend Systems & API Development**  
+- 🌱 Curious and consistent about learning new technologies  
+- 🎯 Goal: Grow into a well-rounded software / AI engineer  
+
+---
+
+## 🔧 Tech & Tools  
+
+- **Languages:** Python  
+- **Core CS:** Data Structures & Algorithms, System Design (fundamentals)  
+- **Interests:** AI/ML, Backend Development, API Design  
+- **Tools:** Git, GitHub  
+
+---
+
+## 📫 How to Reach Me  
+
+- 📧 Email: **srikarikuppa@gmail.com** 
+- 💼 LinkedIn: **https://www.linkedin.com/in/kuppa-srikari-9a1565333/**
+
+---
+
+## 🤝 Connect With Me  
+
+I’m open to:
+- Beginner-to-intermediate Python projects  
+- Learning-focused AI/ML collaborations  
+- DSA practice and discussions  
+
+---
+
+⭐ *Learning step by step, focusing on strong fundamentals and real-world systems.*

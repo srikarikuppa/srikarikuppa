@@ -5,7 +5,7 @@ B.Tech IT Student | Python Programmer | DSA & System Design | AI/ML Learning
 </h3>
 ---
 
-## 🌟 About Me  
+### 🌟 About Me  
 
 - 🎓 B.Tech 3rd Year – Information Technology  
 - 🐍 Currently working with **Python** and problem-solving  
@@ -17,7 +17,7 @@ B.Tech IT Student | Python Programmer | DSA & System Design | AI/ML Learning
 
 ---
 
-## 🔧 Tech & Tools  
+### 🔧 Tech & Tools  
 
 - **Languages:** Python  
 - **Core CS:** Data Structures & Algorithms, System Design (fundamentals)  
@@ -26,14 +26,14 @@ B.Tech IT Student | Python Programmer | DSA & System Design | AI/ML Learning
 
 ---
 
-## 📫 How to Reach Me  
+### 📫 How to Reach Me  
 
 - 📧 Email: **srikarikuppa@gmail.com** 
 - 💼 LinkedIn: **https://www.linkedin.com/in/kuppa-srikari-9a1565333/**
 
 ---
 
-## 🤝 Connect With Me  
+### 🤝 Connect With Me  
 
 I’m open to:
 - Beginner-to-intermediate Python projects  

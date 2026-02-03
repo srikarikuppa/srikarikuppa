@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srikari Kuppa</h1>
 
 <h3 align="center">
-B.Tech IT Student | Python Programmer | DSA & System Design | AI/ML Learning
+B.Tech IT Student | Python Programmer | Future AI Engineer
 </h3>
 ---
 

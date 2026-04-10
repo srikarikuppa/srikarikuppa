@@ -22,7 +22,7 @@ B.Tech IT Student | Python Programmer | Future AI Engineer
 - **Languages:** Python  
 - **Core CS:** Data Structures & Algorithms, System Design (fundamentals)  
 - **Interests:** AI/ML, Backend Development, API Design  
-- **Tools:** Git, GitHub  
+- **Tools:** Git, GitHub , Excel
 
 ---
 
